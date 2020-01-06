@@ -1,5 +1,4 @@
-# term-project-team-1
-term-project-team-1 created by GitHub Classroom
+# Project HealthDeck
 
 
 Fork from my Github Project made in collaboration with @acpeters (project manager, @acixe (buildmaster), @mkaadan (Primary Programmer) and Myself (Test Lead)
